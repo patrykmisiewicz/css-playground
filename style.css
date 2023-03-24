@@ -1,0 +1,53 @@
+body {
+    background-color: #ffffff;
+    font-family: "Helvetica", sans-serif;
+}
+
+div h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+    background-color: #db6301c9;
+    color: white;
+}
+
+#title {
+    font-family: "Monaco", monospace;
+    font-weight: bold;
+    font-size: 48px;
+    color: #ff3300;
+    -webkit-text-stroke: 1px #e8580c;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+button {
+    background-color: rgba(194, 194, 194, 0.685);
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.per {
+    text-align: center;
+}
+
+div div h3 {
+    background-color: white;
+    color:black;
+    text-align: left;
+}
